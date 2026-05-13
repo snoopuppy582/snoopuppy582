@@ -18,18 +18,18 @@ I build AI tools, test infrastructure, and product prototypes. Recently focused 
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="158" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=snoopuppy582&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="158" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopuppy582&layout=compact&theme=transparent&hide_border=true&hide=html,css,jupyter%20notebook">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><b>11</b><br>merged OSS PRs</td>
+    <td align="center"><b>48</b><br>PR attempts</td>
+    <td align="center"><b>Python / AI</b><br>testing, CI, tooling</td>
+    <td align="center"><b>Product</b><br>web, data, games</td>
+  </tr>
+</table>
 
 <table>
   <tr>
-    <td><b>Open source</b><br>11 merged PRs and active review work across Python, AI tooling, CI, docs, and tests.</td>
+    <td><b>Open source</b><br>Active review work across Python, AI tooling, CI, docs, and tests.</td>
     <td><b>Product work</b><br>Event systems, recommendation platforms, generated-audio analysis, and Azure-backed game workflows.</td>
   </tr>
   <tr>
@@ -60,18 +60,28 @@ I build AI tools, test infrastructure, and product prototypes. Recently focused 
       Booth reservation prototype for event congestion and queue management.
     </td>
     <td>
-      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
-      React prototype for a gamified crowdfunding experience.
+      <a href="https://ieojulge.vercel.app/"><b>Ieojulge</b></a><br>
+      Deployed hackathon MVP connecting traditional culture through 3D experience, AI creation, and QR-based visits.
     </td>
   </tr>
   <tr>
     <td>
-      <b>ScentLore</b><br>
+      <a href="https://scentlore.kr"><b>ScentLore</b></a><br>
       Perfume recommendation and community platform, currently private.
     </td>
     <td>
       <b>Marginalia</b><br>
       2.5D hybrid puzzle game being developed with Azure-backed workflows. Link to be added later.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
+      React prototype for a gamified crowdfunding and trust-building experience.
+    </td>
+    <td>
+      <b>AI audio quality analysis</b><br>
+      Research-oriented experiments around generated-audio quality. Link to be added later.
     </td>
   </tr>
 </table>
