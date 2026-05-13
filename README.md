@@ -1,32 +1,44 @@
 # Hi, I'm Geonho
 
-I build AI tools, test infrastructure, and product prototypes.
-Recently, I have been focused on small, reviewable open-source contributions around Python, AI tooling, CI, and test coverage.
+I build AI tools, test infrastructure, and product prototypes. Recently focused on small, reviewable open-source contributions around Python, AI tooling, CI, and test coverage.
 
-<p>
+<p align="center">
+  <img alt="Open Source Contributions" src="https://img.shields.io/badge/Open_Source-Contributions-2EA44F?style=for-the-badge">
+  <img alt="Testing and CI" src="https://img.shields.io/badge/Testing_%26_CI-6F42C1?style=for-the-badge">
+  <img alt="AI Tooling" src="https://img.shields.io/badge/AI_Tooling-0969DA?style=for-the-badge">
+</p>
+
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
 </p>
 
-<p>
-  <img alt="Open Source Contributions" src="https://img.shields.io/badge/Open_Source-Contributions-2EA44F?style=flat-square">
-  <img alt="Testing and CI" src="https://img.shields.io/badge/Focus-Testing_%26_CI-6F42C1?style=flat-square">
-  <img alt="AI Tooling" src="https://img.shields.io/badge/Interest-AI_Tooling-0969DA?style=flat-square">
-</p>
-
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=snoopuppy582&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage">
+    <img height="158" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=snoopuppy582&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="158" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snoopuppy582&layout=compact&theme=transparent&hide_border=true&hide=html,css,jupyter%20notebook">
   </a>
 </p>
 
-## Open Source
+<table>
+  <tr>
+    <td><b>Open source</b><br>11 merged PRs and active review work across Python, AI tooling, CI, docs, and tests.</td>
+    <td><b>Product work</b><br>Event systems, recommendation platforms, generated-audio analysis, and Azure-backed game workflows.</td>
+  </tr>
+  <tr>
+    <td><b>Review style</b><br>Small diffs, clear test commands, and maintainer-friendly follow-up.</td>
+    <td><b>Current stack</b><br>Python, TypeScript, Go, PyTorch, FastAPI, GitHub Actions, pytest, Unity, Azure.</td>
+  </tr>
+</table>
 
-Selected recent contributions, mostly focused on tests, CI, and small bug fixes.
+## Open Source
 
 | Project | What changed | PR |
 | --- | --- | --- |
@@ -41,15 +53,32 @@ Selected recent contributions, mostly focused on tests, CI, and small bug fixes.
 
 ## Selected Work
 
-- [KINTEX Booth App](https://github.com/snoopuppy582/KINTEX-Booth-App): a booth reservation prototype for event congestion and queue management.
-- [Douri Unification Hackathon](https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind): a React prototype for a gamified crowdfunding experience.
-- ScentLore: a perfume recommendation and community platform, currently private.
-- Marginalia: a 2.5D hybrid puzzle game being developed with Azure-backed workflows; repository link to be added later.
-- AI audio quality analysis: research-oriented experiments around generated audio quality; repository link to be added later.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/snoopuppy582/KINTEX-Booth-App"><b>KINTEX Booth App</b></a><br>
+      Booth reservation prototype for event congestion and queue management.
+    </td>
+    <td>
+      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
+      React prototype for a gamified crowdfunding experience.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>ScentLore</b><br>
+      Perfume recommendation and community platform, currently private.
+    </td>
+    <td>
+      <b>Marginalia</b><br>
+      2.5D hybrid puzzle game being developed with Azure-backed workflows. Link to be added later.
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
 - Small, test-backed open-source contributions.
 - AI agent tooling, observability, and evaluation workflows.
 - Interactive media and game prototypes.
-- Clear documentation for work that other people need to review or run.
+- Research-oriented generated-audio quality analysis.
