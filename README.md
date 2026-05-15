@@ -31,7 +31,7 @@ Recently, I have been contributing small, well-tested fixes across Python, data,
   <tr>
     <td align="center"><b>25</b><br>merged OSS PRs</td>
     <td align="center"><b>57</b><br>PR attempts</td>
-    <td align="center"><b>AI / Product / Game</b><br>builder profile</td>
+    <td align="center"><b>Python / TS / Unity</b><br>cross-stack work</td>
     <td align="center"><b>문건호</b><br>Korean name</td>
   </tr>
 </table>
@@ -114,10 +114,3 @@ I like narrow diffs that make tools easier to trust: clearer CI, better tests, s
   <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snoopuppy582&theme=github">
   <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snoopuppy582&theme=github">
 </p>
-
-## Current Focus
-
-- Shipping AI/product prototypes with practical user flows.
-- Building game and interactive-media systems.
-- Contributing small, reviewable fixes to developer tooling.
-- Keeping tests, CI, and docs close to real behavior.
