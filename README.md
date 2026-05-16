@@ -1,13 +1,13 @@
-# Hi, I'm Geonho
+# Geonho Moon
 
-I build AI-powered products, game systems, and developer tools.
+Software Convergence student at Kyung Hee University.
 
-Recently, I have been contributing small, well-tested fixes across Python, data, CI, schema, and developer-tooling projects.
+I build AI-powered product prototypes, Unity-based game systems, and developer tools. I also contribute focused fixes to open-source projects where tests, CI, schema behavior, or documentation can become a little easier to trust.
 
 <p align="center">
-  <img alt="AI Product Game Builder" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Builder-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-25_merged_PRs-2EA44F?style=for-the-badge">
-  <img alt="Testing and CI" src="https://img.shields.io/badge/Testing_%26_CI-Reviewable_Fixes-6F42C1?style=for-the-badge">
+  <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-25%2B_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -29,10 +29,9 @@ Recently, I have been contributing small, well-tested fixes across Python, data,
 
 <table>
   <tr>
-    <td align="center"><b>25</b><br>merged OSS PRs</td>
-    <td align="center"><b>57</b><br>PR attempts</td>
-    <td align="center"><b>Python / TS / Unity</b><br>cross-stack work</td>
-    <td align="center"><b>문건호</b><br>Korean name</td>
+    <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
+    <td align="center"><b>KCC 2026</b><br>research submitted</td>
+    <td align="center"><b>25+</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
@@ -40,62 +39,62 @@ Recently, I have been contributing small, well-tested fixes across Python, data,
 
 <table>
   <tr>
-    <td><b>AI and data products</b><br>Recommendation systems, evaluation workflows, and generated-media analysis.</td>
-    <td><b>Game and interactive systems</b><br>Unity workflows, 3D web experiences, and hybrid game prototypes.</td>
+    <td><b>AI and data products</b><br>Recommendation flows, evaluation workflows, and research tools around generated media.</td>
+    <td><b>Game and interactive systems</b><br>Unity development, 2.5D game systems, 3D web experiences, and Azure-backed workflows.</td>
   </tr>
   <tr>
-    <td><b>Developer reliability</b><br>Tests, CI, schema fixes, docs, and maintainer-friendly follow-up.</td>
-    <td><b>Product prototypes</b><br>Fast MVPs with enough polish to ship, demo, and iterate.</td>
+    <td><b>Developer reliability</b><br>Tests, CI fixes, schema behavior, docs, and small changes that reduce maintenance friction.</td>
+    <td><b>Product prototypes</b><br>Fast MVPs with enough structure to deploy, demo, and iterate with real users.</td>
   </tr>
 </table>
 
 ## Selected Open Source Work
 
-I like narrow diffs that make tools easier to trust: clearer CI, better tests, safer validation, and documentation that matches real usage.
+I keep this list focused on merged work.
 
-| Project | Work | Status |
-| --- | --- | --- |
-| `pydantic/logfire` | Clarified ambiguous `logfire run` instrumentation recommendations and kept terminal snapshot coverage stable. | [CI green, in review #1926](https://github.com/pydantic/logfire/pull/1926) |
-| `pydantic/pydantic` | Reapplied URL constraints for existing URL instances while preserving the fast path for unconstrained values. | [In review #13180](https://github.com/pydantic/pydantic/pull/13180) |
-| `SchemaStore/schemastore` | Fixed pytest `ini_options` schema annotations for editor/tooling behavior. | [Merged #5688](https://github.com/SchemaStore/schemastore/pull/5688) |
-| `Qiskit/ecosystem` | Added strict, network-free Julia metadata test coverage. | [In review #1143](https://github.com/Qiskit/ecosystem/pull/1143) |
-| `OWASP/Agent-Security-Regression-Harness` | Hardened trace-item validation with focused malformed-input tests. | [Merged #104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104) |
-| `MemTensor/MemOS` | Added `mem_feedback` workflow coverage after maintainer review. | [Merged #1715](https://github.com/MemTensor/MemOS/pull/1715) |
-| `jupyter-ai-contrib/jupyter-server-documents` | Fixed a release-blocking CI dependency issue with a focused constraint. | [Merged #236](https://github.com/jupyter-ai-contrib/jupyter-server-documents/pull/236) |
-| `dev-five-git/devup-ui` | Improved component docs and added Webpack/Bun setup guides. | [Merged #612](https://github.com/dev-five-git/devup-ui/pull/612), [#613](https://github.com/dev-five-git/devup-ui/pull/613) |
+| Project | Contribution |
+| --- | --- |
+| `SchemaStore/schemastore` | Fixed pytest `ini_options` schema annotations for editor/tooling behavior. [#5688](https://github.com/SchemaStore/schemastore/pull/5688) |
+| `OWASP/Agent-Security-Regression-Harness` | Hardened trace-item validation with focused malformed-input tests. [#104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104) |
+| `MemTensor/MemOS` | Added `mem_feedback` workflow coverage after maintainer review. [#1715](https://github.com/MemTensor/MemOS/pull/1715) |
+| `jupyter-ai-contrib/jupyter-server-documents` | Fixed a release-blocking CI dependency issue with a focused constraint. [#236](https://github.com/jupyter-ai-contrib/jupyter-server-documents/pull/236) |
+| `dev-five-git/devup-ui` | Improved component docs and added Webpack/Bun setup guides. [#612](https://github.com/dev-five-git/devup-ui/pull/612), [#613](https://github.com/dev-five-git/devup-ui/pull/613) |
+| `mloda-ai/mloda` | Removed stale security-scan suppression code after reproducing the scanner behavior. [#423](https://github.com/mloda-ai/mloda/pull/423) |
+| `razbuild/raztint` | Added ANSI background color helpers with tests and docs. [#5](https://github.com/razbuild/raztint/pull/5) |
+| `NugrahaPancaWibisana/floe` | Added offline unit coverage for finance helpers and edge behavior. [#34](https://github.com/NugrahaPancaWibisana/floe/pull/34) |
 
 ## Product and Research Work
 
 <table>
   <tr>
     <td>
-      <a href="https://scentlore.kr"><b>ScentLore</b></a><br>
-      High-end perfume wiki and community platform built around recommendation and taste discovery.
+      <a href="https://ieojulge.vercel.app/"><b>Ieojulge</b></a><br>
+      Culture-tech MVP awarded the KHUTHON 2026 Excellence Award. I led planning, development, and presentation.
+      <br><a href="https://github.com/snoopuppy582/khuthon_chuchuss">Repository</a>
     </td>
     <td>
-      <a href="https://ieojulge.vercel.app/"><b>Ieojulge</b></a><br>
-      Deployed culture-tech MVP with 3D experience, AI creation flow, and QR-based visits.
-      <br><a href="https://github.com/snoopuppy582/khuthon_chuchuss">Repository</a>
+      <a href="https://scentlore.kr"><b>ScentLore</b></a><br>
+      High-end perfume wiki and community platform built around recommendation and taste discovery.
     </td>
   </tr>
   <tr>
     <td>
       <b>Marginalia</b><br>
-      2.5D hybrid puzzle game in progress with Azure-backed development workflows.
+      Private 2.5D hybrid puzzle game project. Team lead, Unity development, and Azure-backed workflow.
     </td>
     <td>
-      <a href="https://github.com/snoopuppy582/KINTEX-Booth-App"><b>KINTEX Booth App</b></a><br>
-      PWA-style booth reservation prototype for event congestion and queue management.
+      <b>AI-generated video/audio quality research</b><br>
+      Research submitted to Korea Computer Congress 2026 on signal-quality degradation in generated media.
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
-      React prototype for gamified crowdfunding and trust-building.
+      <a href="https://github.com/snoopuppy582/KINTEX-Booth-App"><b>KINTEX Booth App</b></a><br>
+      PWA-style booth reservation prototype for event congestion and queue management.
     </td>
     <td>
-      <b>Generated-audio quality analysis</b><br>
-      Research-oriented experiments around AI-generated audio signal quality.
+      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
+      React prototype for gamified crowdfunding and trust-building.
     </td>
   </tr>
 </table>
@@ -110,7 +109,5 @@ I like narrow diffs that make tools easier to trust: clearer CI, better tests, s
   <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snoopuppy582&theme=github">
 </p>
 
-<p align="center">
-  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snoopuppy582&theme=github">
-  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snoopuppy582&theme=github">
-</p>
+Contact: <a href="mailto:mnb0968@naver.com">mnb0968@naver.com</a>
+
