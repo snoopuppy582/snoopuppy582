@@ -2,12 +2,13 @@
 
 Software Convergence student at Kyung Hee University.
 
-I build AI-powered product prototypes, Unity-based game systems, and developer tools. I also contribute focused fixes to open-source projects where tests, CI, schema behavior, or documentation can become a little easier to trust.
+I build AI-powered product prototypes, Unity-based game systems, and developer tools. I enjoy competition deadlines, open-source maintenance work, and turning rough ideas into deployed demos.
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-25%2B_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
+  <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -30,7 +31,8 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
 <table>
   <tr>
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
-    <td align="center"><b>KCC 2026</b><br>research submitted</td>
+    <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
+    <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
     <td align="center"><b>25+</b><br>merged OSS contributions</td>
   </tr>
 </table>
@@ -47,6 +49,14 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
     <td><b>Product prototypes</b><br>Fast MVPs with enough structure to deploy, demo, and iterate with real users.</td>
   </tr>
 </table>
+
+## Recognition and Programs
+
+| Year | Recognition | Notes |
+| --- | --- | --- |
+| 2026 | KHUTHON Excellence Award | Led planning, development, and presentation for [Ieojulge](https://ieojulge.vercel.app/). |
+| 2025-2026 | [AIFFEL AI Researcher 15th](https://aiffel.io/airesearcher) | Completed a 6-month AI research program. |
+| 2025 | [Korea Arboreta and Gardens Institute AI Content Contest](https://koagi.or.kr/contents/dynamicDetail?menuId=M0024&upMenuId=M0007&s0&pagePerNo=10&searchCD=field03&keyword=%ED%85%90%EC%B8%A0&postNo=4407) Top Prize | AI content competition run by KOAGI. |
 
 ## Selected Open Source Work
 
@@ -87,17 +97,20 @@ I keep this list focused on merged work.
       Research submitted to Korea Computer Congress 2026 on signal-quality degradation in generated media.
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/snoopuppy582/KINTEX-Booth-App"><b>KINTEX Booth App</b></a><br>
-      PWA-style booth reservation prototype for event congestion and queue management.
-    </td>
-    <td>
-      <a href="https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind"><b>Douri Unification Hackathon</b></a><br>
-      React prototype for gamified crowdfunding and trust-building.
-    </td>
-  </tr>
 </table>
+
+## Competition Projects
+
+I like building under real deadlines, especially when the work mixes AI, product decisions, and visible prototypes.
+
+| Event | Result | Role | Link |
+| --- | --- | --- | --- |
+| 2030 Unification Hackathon | Finalist, 4th place | Frontend and deployment | [Repository](https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind) |
+| Honam ICT Coding Challenge Hackathon | 7th / 50 teams | Solo planning, full-stack development, TensorFlow tuning, presentation | [Prototype](https://jejurecycle-h18ft7h8h-snoopuppy582s-projects.vercel.app/) / [Renewal](https://jejurecycle.vercel.app/) |
+| BDACS Blockchain Ideathon | Finalist | Solo planning, prototype, presentation | [Event](https://www.bdacs.co.kr/en/news/BDACS%201DAY%20Ideathon) |
+| Fastcampus Builderthon | Finalist | VS Code extension, agent workflow, UI design | [Demo](https://youtu.be/6G7frejSEls?si=NGyzcT3KadPtc0an) |
+| DACON Scam & Phishing Prevention Challenge | Submitted | React AI logic, search AI logic, DB/server integration | [Demo](https://www.youtube.com/watch?v=my0cum_Loy8&t=19s) |
+| Kyung Hee Lockathon | Participant | React Native frontend development | - |
 
 ## GitHub Signal
 
@@ -110,4 +123,3 @@ I keep this list focused on merged work.
 </p>
 
 Contact: <a href="mailto:mnb0968@naver.com">mnb0968@naver.com</a>
-
