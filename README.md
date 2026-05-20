@@ -6,7 +6,7 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-25%2B_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-31_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
   <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
@@ -33,7 +33,7 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
     <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
     <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
-    <td align="center"><b>25+</b><br>merged OSS contributions</td>
+    <td align="center"><b>31</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
@@ -68,8 +68,9 @@ I keep this list focused on merged work.
 | `OWASP/Agent-Security-Regression-Harness` | Hardened trace-item validation with focused malformed-input tests. [#104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104) |
 | `MemTensor/MemOS` | Added `mem_feedback` workflow coverage after maintainer review. [#1715](https://github.com/MemTensor/MemOS/pull/1715) |
 | `jupyter-ai-contrib/jupyter-server-documents` | Fixed a release-blocking CI dependency issue with a focused constraint. [#236](https://github.com/jupyter-ai-contrib/jupyter-server-documents/pull/236) |
-| `dev-five-git/devup-ui` | Improved component docs and added Webpack/Bun setup guides. [#612](https://github.com/dev-five-git/devup-ui/pull/612), [#613](https://github.com/dev-five-git/devup-ui/pull/613) |
-| `mloda-ai/mloda` | Removed stale security-scan suppression code after reproducing the scanner behavior. [#423](https://github.com/mloda-ai/mloda/pull/423) |
+| `dev-five-git` | Improved `devup-ui` docs and added a safe `braillify` testcase-report workflow. [devup-ui #612](https://github.com/dev-five-git/devup-ui/pull/612), [#613](https://github.com/dev-five-git/devup-ui/pull/613), [braillify #163](https://github.com/dev-five-git/braillify/pull/163) |
+| `mloda-ai/mloda` | Fixed Windows-local CI/test portability issues and removed stale security-scan suppression code. [#423](https://github.com/mloda-ai/mloda/pull/423), [#426](https://github.com/mloda-ai/mloda/pull/426), [#427](https://github.com/mloda-ai/mloda/pull/427) |
+| `rocky-data/rocky` | Added Dagster backlog-cap edge-case coverage after matching a focused issue. [#504](https://github.com/rocky-data/rocky/pull/504) |
 | `razbuild/raztint` | Added ANSI background color helpers with tests and docs. [#5](https://github.com/razbuild/raztint/pull/5) |
 | `NugrahaPancaWibisana/floe` | Added offline unit coverage for finance helpers and edge behavior. [#34](https://github.com/NugrahaPancaWibisana/floe/pull/34) |
 
