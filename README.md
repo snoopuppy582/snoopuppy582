@@ -2,11 +2,11 @@
 
 Software Convergence student at Kyung Hee University.
 
-I build AI-powered product prototypes, Unity-based game systems, and developer tools. I enjoy competition deadlines, open-source maintenance work, and turning rough ideas into deployed demos.
+I build AI-powered product prototypes, immersive media startup projects, Unity-based game systems, and developer tools. I enjoy competition deadlines, open-source maintenance work, and turning rough ideas into deployed demos.
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-34_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-35_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
   <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
@@ -24,16 +24,13 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
 </p>
 
-<p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=snoopuppy582&theme=flat&no-frame=true&margin-w=8&row=1&column=6">
-</p>
-
 <table>
   <tr>
+    <td align="center"><b>COSS Startup 2026</b><br>Immersive Media Excellence Award</td>
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
     <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
     <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
-    <td align="center"><b>34</b><br>merged OSS contributions</td>
+    <td align="center"><b>35</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
@@ -54,6 +51,7 @@ I build AI-powered product prototypes, Unity-based game systems, and developer t
 
 | Year | Recognition | Notes |
 | --- | --- | --- |
+| 2026 | "Let's Go!" COSS Startup Competition, Immersive Media Track Excellence Award | Placed 2nd as team lead; led presentation, implementation, and video editing/production. |
 | 2026 | KHUTHON Excellence Award | Led planning, development, and presentation for [Ieojulge](https://ieojulge.vercel.app/). |
 | 2025-2026 | [AIFFEL AI Researcher 15th](https://aiffel.io/airesearcher) | Completed a 6-month AI research program. |
 | 2025 | [Korea Arboreta and Gardens Institute AI Content Contest](https://koagi.or.kr/contents/dynamicDetail?menuId=M0024&upMenuId=M0007&s0&pagePerNo=10&searchCD=field03&keyword=%ED%85%90%EC%B8%A0&postNo=4407) Top Prize | AI content competition run by KOAGI. |
@@ -108,6 +106,7 @@ I like building under real deadlines, especially when the work mixes AI, product
 
 | Event | Result | Role | Link |
 | --- | --- | --- | --- |
+| "Let's Go!" COSS Startup Competition | Immersive Media Track, 2nd Place / Excellence Award | Team lead, presentation, implementation, video editing and production | - |
 | 2030 Unification Hackathon | Finalist, 4th place | Frontend and deployment | [Repository](https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind) |
 | Honam ICT Coding Challenge Hackathon | 7th / 50 teams | Solo planning, full-stack development, TensorFlow tuning, presentation | [Prototype](https://jejurecycle-h18ft7h8h-snoopuppy582s-projects.vercel.app/) / [Renewal](https://jejurecycle.vercel.app/) |
 | BDACS Blockchain Ideathon | Finalist | Solo planning, prototype, presentation | [Event](https://www.bdacs.co.kr/en/news/BDACS%201DAY%20Ideathon) |
