@@ -52,7 +52,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
 | Year | Recognition | Notes |
 | --- | --- | --- |
 | 2026 | "Let's Go!" COSS Startup Competition, Immersive Media Track Excellence Award | Placed 2nd as team lead; led presentation, implementation, and video editing/production. |
-| 2026 | KHUTHON Excellence Award | Led planning, development, and presentation for [Ieojulge](https://ieojulge.vercel.app/). |
+| 2026 | KHUTHON Excellence Award | Led planning, development, and presentation for [Ieojulge](https://ieojulge.vercel.app/). [Repository](https://github.com/snoopuppy582/khuthon_chuchuss) |
 | 2025-2026 | [AIFFEL AI Researcher 15th](https://aiffel.io/airesearcher) | Completed a 6-month AI research program. |
 | 2025 | [Korea Arboreta and Gardens Institute AI Content Contest](https://koagi.or.kr/contents/dynamicDetail?menuId=M0024&upMenuId=M0007&s0&pagePerNo=10&searchCD=field03&keyword=%ED%85%90%EC%B8%A0&postNo=4407) Top Prize | AI content competition run by KOAGI. |
 
