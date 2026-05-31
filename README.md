@@ -106,7 +106,7 @@ I like building under real deadlines, especially when the work mixes AI, product
 
 | Event | Result | Role | Link |
 | --- | --- | --- | --- |
-| "Let's Go!" COSS Startup Competition | Immersive Media Track, 2nd Place / Excellence Award | Team lead, presentation, implementation, video editing and production | - |
+| "Let's Go!" COSS Startup Competition | Immersive Media Track, 2nd Place / Excellence Award | Team lead, presentation, implementation, video editing and production | [Event](https://enter.pcu.ac.kr/kor/article/Notify_1/1311508241?pageIndex=247) |
 | 2030 Unification Hackathon | Finalist, 4th place | Frontend and deployment | [Repository](https://github.com/snoopuppy582/douri-unification-hackathon-react-tailwind) |
 | Honam ICT Coding Challenge Hackathon | 7th / 50 teams | Solo planning, full-stack development, TensorFlow tuning, presentation | [Prototype](https://jejurecycle-h18ft7h8h-snoopuppy582s-projects.vercel.app/) / [Renewal](https://jejurecycle.vercel.app/) |
 | BDACS Blockchain Ideathon | Finalist | Solo planning, prototype, presentation | [Event](https://www.bdacs.co.kr/en/news/BDACS%201DAY%20Ideathon) |
