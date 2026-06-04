@@ -6,7 +6,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-35_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-36_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
   <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
@@ -30,7 +30,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
     <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
     <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
-    <td align="center"><b>35</b><br>merged OSS contributions</td>
+    <td align="center"><b>36</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
