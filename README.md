@@ -6,7 +6,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-36_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-39_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
   <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
@@ -30,7 +30,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
     <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
     <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
-    <td align="center"><b>36</b><br>merged OSS contributions</td>
+    <td align="center"><b>39</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
@@ -62,6 +62,9 @@ I keep this list focused on merged work.
 
 | Project | Contribution |
 | --- | --- |
+| `python-semantic-release/python-semantic-release` | Prevented credentials embedded in HTTPS git URLs from leaking into debug logs; released in v10.6.0. [#1445](https://github.com/python-semantic-release/python-semantic-release/pull/1445) |
+| `pydantic/logfire` | Clarified ambiguous instrumentation recommendations and covered two-package grammar after review. [#1926](https://github.com/pydantic/logfire/pull/1926) |
+| `Qiskit/ecosystem` | Added network-isolated Julia metadata tests, reaching 91% focused coverage through three review rounds. [#1143](https://github.com/Qiskit/ecosystem/pull/1143) |
 | `SchemaStore/schemastore` | Fixed pytest `ini_options` schema annotations for editor/tooling behavior. [#5688](https://github.com/SchemaStore/schemastore/pull/5688) |
 | `OWASP/Agent-Security-Regression-Harness` | Hardened trace-item validation with focused malformed-input tests. [#104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104) |
 | `MemTensor/MemOS` | Added `mem_feedback` workflow coverage after maintainer review. [#1715](https://github.com/MemTensor/MemOS/pull/1715) |
