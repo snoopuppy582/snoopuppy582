@@ -64,12 +64,13 @@ I keep this list focused on merged work.
 | --- | --- |
 | `numpy/numpy` | Fixed silent coordinate corruption in large buffered `unravel_index` workloads by invalidating a stale iterator stride specialization. [#31985](https://github.com/numpy/numpy/pull/31985) |
 | `open-multi-agent/open-multi-agent` | Fixed detached POSIX descendant cleanup when the direct child exits before stream closure, backed by a lifecycle regression and 1,392 full Linux tests. [#390](https://github.com/open-multi-agent/open-multi-agent/pull/390) |
+| `AcademySoftwareFoundation/rez` | Fixed PowerShell exit-status handling that could overwrite `$?` and treat a failed command as successful. [#2109](https://github.com/AcademySoftwareFoundation/rez/pull/2109) |
 | `sktime/sktime` | Extended PAA estimator coverage with an additional `frame_size` test parameter set. [#10231](https://github.com/sktime/sktime/pull/10231) |
 | `python-semantic-release/python-semantic-release` | Prevented credentials embedded in HTTPS git URLs from leaking into debug logs; released in v10.6.0. [#1445](https://github.com/python-semantic-release/python-semantic-release/pull/1445) |
 | `pydantic/logfire` | Clarified ambiguous instrumentation recommendations and covered two-package grammar after review. [#1926](https://github.com/pydantic/logfire/pull/1926) |
 | `Qiskit/ecosystem` | Added network-isolated Julia metadata tests, reaching 91% focused coverage through three review rounds. [#1143](https://github.com/Qiskit/ecosystem/pull/1143) |
 | `SchemaStore/schemastore` | Fixed pytest `ini_options` schema annotations for editor/tooling behavior. [#5688](https://github.com/SchemaStore/schemastore/pull/5688) |
-| `OWASP/Agent-Security-Regression-Harness` | Hardened trace-item validation with focused malformed-input tests. [#104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104) |
+| `OWASP/Agent-Security-Regression-Harness` | Hardened malformed trace-item validation and added fail-closed `allowed_tools` checks for agent security regressions. [#104](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/104), [#105](https://github.com/OWASP/Agent-Security-Regression-Harness/pull/105) |
 | `MemTensor/MemOS` | Added `mem_feedback` workflow coverage after maintainer review. [#1715](https://github.com/MemTensor/MemOS/pull/1715) |
 | `jupyter-ai-contrib/jupyter-server-documents` | Fixed a release-blocking CI dependency issue with a focused constraint. [#236](https://github.com/jupyter-ai-contrib/jupyter-server-documents/pull/236) |
 | `dev-five-git` | Improved `devup-ui` docs and added a safe `braillify` testcase-report workflow. [devup-ui #612](https://github.com/dev-five-git/devup-ui/pull/612), [#613](https://github.com/dev-five-git/devup-ui/pull/613), [braillify #163](https://github.com/dev-five-git/braillify/pull/163) |
