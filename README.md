@@ -6,7 +6,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
 
 <p align="center">
   <img alt="AI Product Game Systems" src="https://img.shields.io/badge/AI_%2F_Product_%2F_Game-Systems-111827?style=for-the-badge">
-  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-45_Merged_Contributions-2EA44F?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open_Source-46_Merged_Contributions-2EA44F?style=for-the-badge">
   <img alt="Kyung Hee University" src="https://img.shields.io/badge/Kyung_Hee-University-005BAC?style=for-the-badge">
   <img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-Awards_%2B_Finalists-F59E0B?style=for-the-badge">
 </p>
@@ -30,7 +30,7 @@ I build AI-powered product prototypes, immersive media startup projects, Unity-b
     <td align="center"><b>KHUTHON 2026</b><br>Excellence Award</td>
     <td align="center"><b>KOAGI AI Content Contest</b><br>Top Prize</td>
     <td align="center"><b>AIFFEL</b><br>AI Researcher 15th completed</td>
-    <td align="center"><b>45</b><br>merged OSS contributions</td>
+    <td align="center"><b>46</b><br>merged OSS contributions</td>
   </tr>
 </table>
 
@@ -66,7 +66,7 @@ I keep this list focused on merged work.
 | `numpy/numpy` | Fixed silent coordinate corruption in large buffered `unravel_index` workloads by invalidating a stale iterator stride specialization. [#31985](https://github.com/numpy/numpy/pull/31985) |
 | `open-multi-agent/open-multi-agent` | Fixed detached POSIX descendant cleanup when the direct child exits before stream closure, backed by a lifecycle regression and 1,392 full Linux tests. [#390](https://github.com/open-multi-agent/open-multi-agent/pull/390) |
 | `AcademySoftwareFoundation/rez` | Fixed PowerShell exit-status handling that could overwrite `$?` and treat a failed command as successful. [#2109](https://github.com/AcademySoftwareFoundation/rez/pull/2109) |
-| `sktime/sktime` | Extended PAA estimator coverage with an additional `frame_size` test parameter set. [#10231](https://github.com/sktime/sktime/pull/10231) |
+| `sktime/sktime` | Extended PAA and FeatureSelection estimator coverage with distinct, validated test parameter sets. [#10231](https://github.com/sktime/sktime/pull/10231), [#10232](https://github.com/sktime/sktime/pull/10232) |
 | `python-semantic-release/python-semantic-release` | Prevented credentials embedded in HTTPS git URLs from leaking into debug logs; released in v10.6.0. [#1445](https://github.com/python-semantic-release/python-semantic-release/pull/1445) |
 | `pydantic/logfire` | Clarified ambiguous instrumentation recommendations and covered two-package grammar after review. [#1926](https://github.com/pydantic/logfire/pull/1926) |
 | `Qiskit/ecosystem` | Added network-isolated Julia metadata tests, reaching 91% focused coverage through three review rounds. [#1143](https://github.com/Qiskit/ecosystem/pull/1143) |
